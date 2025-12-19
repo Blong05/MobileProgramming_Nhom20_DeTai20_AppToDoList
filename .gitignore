@@ -1,0 +1,19 @@
+# Android Studio rác
+SourceCode/*.iml
+SourceCode/.gradle
+SourceCode/local.properties
+SourceCode/.idea/caches
+SourceCode/.idea/libraries
+SourceCode/.idea/modules.xml
+SourceCode/.idea/workspace.xml
+SourceCode/.idea/navEditor.xml
+SourceCode/.idea/assetWizardSettings.xml
+SourceCode/.idea/
+SourceCode/build/
+SourceCode/captures
+SourceCode/.externalNativeBuild
+SourceCode/.cxx
+
+# Hệ thống
+.DS_Store
+Thumbs.db
