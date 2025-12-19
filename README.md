@@ -3,8 +3,10 @@
 ## 📝 Đề tài: Ứng dụng Quản lý công việc (App ToDoList)
 
 ### 👨‍💻 Thành viên thực hiện
+* **Nguyễn Minh Lực** - MSSV: 21110540
+* **Nguyễn Tuấn Huy** - MSSV: 22110334
+* **Nguyễn Thái Hưng** - MSSV: 23162035
 * **Nguyễn Hồng Bảo Long** - MSSV: 23162053
-* **Trần Thị B** - MSSV: 22110xxx
 
 ### 🚀 Giới thiệu dự án
 Ứng dụng giúp người dùng quản lý danh sách công việc hằng ngày, hỗ trợ thêm, sửa, xóa và đánh dấu hoàn thành các tác vụ.
